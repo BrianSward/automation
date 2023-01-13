@@ -2,11 +2,15 @@
 
 ## Project: Automation
 ### Author: Brian Sward
+
 ### Links and Resources
 n/a
+
 ### How to initialize/run your application (where applicable)
-e.g. python main.py
+`python automation_lab/automation.py`
+
+running this file will produce two files, "emails.txt" and "phone_numbers.txt" which will contain the relevant info for
+each from out "potential_contacts.txt"
+
 ### Tests
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+n/a
